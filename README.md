@@ -1,9 +1,10 @@
 # poetry_fastapi_template
 
-a fastAPI template for a web service with python.
+a fastAPI template for implementing a web service
 
 ## tooling
 
+- python
 - virtual environment
 - poetry
 - fastapi
